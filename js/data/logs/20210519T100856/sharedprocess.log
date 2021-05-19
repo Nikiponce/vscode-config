@@ -1,0 +1,14 @@
+[2021-05-19 10:09:37.236] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-19 11:03:05.553] [sharedprocess] [info] Installing extension: equinusocio.vsc-community-material-theme
+[2021-05-19 11:03:06.161] [sharedprocess] [info] Downloaded extension: equinusocio.vsc-community-material-theme /Users/np11/code_profiles/js/data/CachedExtensionVSIXs/equinusocio.vsc-community-material-theme-1.4.4
+[2021-05-19 11:03:06.195] [sharedprocess] [info] Extracted extension to /Users/np11/code_profiles/js/extensions/.24051ae6-2824-4571-b624-cc5a8dcc1c78: equinusocio.vsc-community-material-theme
+[2021-05-19 11:03:06.220] [sharedprocess] [info] Renamed to /Users/np11/code_profiles/js/extensions/equinusocio.vsc-community-material-theme-1.4.4
+[2021-05-19 11:03:06.221] [sharedprocess] [info] Installation completed. equinusocio.vsc-community-material-theme
+[2021-05-19 11:03:06.250] [sharedprocess] [info] Extensions installed successfully: equinusocio.vsc-community-material-theme
+[2021-05-19 11:03:27.189] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2021-05-19 11:03:27.517] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /Users/np11/code_profiles/js/data/CachedExtensionVSIXs/ms-azuretools.vscode-docker-1.12.1
+[2021-05-19 11:03:27.699] [sharedprocess] [info] Extracted extension to /Users/np11/code_profiles/js/extensions/.c4739a15-62a7-454b-8cc1-77ab0af8e609: ms-azuretools.vscode-docker
+[2021-05-19 11:03:27.729] [sharedprocess] [info] Renamed to /Users/np11/code_profiles/js/extensions/ms-azuretools.vscode-docker-1.12.1
+[2021-05-19 11:03:27.734] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2021-05-19 11:03:27.806] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2021-05-19 14:54:02.829] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds

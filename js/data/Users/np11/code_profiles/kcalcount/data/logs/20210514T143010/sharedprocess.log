@@ -1,0 +1,25 @@
+[2021-05-14 14:30:52.043] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-14 15:04:56.879] [sharedprocess] [info] Detected extension installed from another source usernamehw.errorlens
+[2021-05-14 15:13:13.579] [sharedprocess] [info] Uninstalling extension: coenraads.bracket-pair-colorizer
+[2021-05-14 15:13:13.613] [sharedprocess] [info] Successfully uninstalled extension: coenraads.bracket-pair-colorizer
+[2021-05-14 15:13:16.980] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2021-05-14 15:13:17.418] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 /Users/np11/code_profiles/kcalcount/data/Users/np11/code_profiles/kcalcount/data/CachedExtensionVSIXs/coenraads.bracket-pair-colorizer-2-0.2.0
+[2021-05-14 15:13:17.555] [sharedprocess] [info] Extracted extension to /Users/np11/.vscode/extensions/.38188dcd-d45b-4810-8eae-3a99571004e6: coenraads.bracket-pair-colorizer-2
+[2021-05-14 15:13:17.581] [sharedprocess] [info] Renamed to /Users/np11/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.0
+[2021-05-14 15:13:17.582] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-2
+[2021-05-14 15:13:17.608] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer-2
+[2021-05-15 04:47:09.313] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-16 13:48:29.039] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-16 13:56:56.004] [sharedprocess] [info] Installing extension: johnsoncodehk.volar
+[2021-05-16 13:56:57.243] [sharedprocess] [info] Downloaded extension: johnsoncodehk.volar /Users/np11/code_profiles/kcalcount/data/Users/np11/code_profiles/kcalcount/data/CachedExtensionVSIXs/johnsoncodehk.volar-0.25.4
+[2021-05-16 13:56:59.143] [sharedprocess] [info] Extracted extension to /Users/np11/.vscode/extensions/.79b72894-fdf6-477e-b37f-929edfb33a47: johnsoncodehk.volar
+[2021-05-16 13:56:59.172] [sharedprocess] [info] Renamed to /Users/np11/.vscode/extensions/johnsoncodehk.volar-0.25.4
+[2021-05-16 13:56:59.175] [sharedprocess] [info] Installation completed. johnsoncodehk.volar
+[2021-05-16 13:56:59.205] [sharedprocess] [info] Extensions installed successfully: johnsoncodehk.volar
+[2021-05-16 22:56:29.540] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-16 23:51:04.775] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-17 10:28:56.038] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-17 12:29:17.797] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-17 12:45:08.974] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-17 18:30:39.309] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2021-05-17 19:57:13.211] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
