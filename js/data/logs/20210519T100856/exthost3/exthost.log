@@ -26,3 +26,5 @@
 [2021-05-19 11:03:11.663] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
 [2021-05-19 11:03:31.823] [exthost] [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-docker {"startup":false,"extensionId":{"value":"ms-azuretools.vscode-docker","_lower":"ms-azuretools.vscode-docker"},"activationEvent":"onView:dockerContainers"}
 [2021-05-19 11:03:31.823] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/np11/code_profiles/js/extensions/ms-azuretools.vscode-docker-1.12.1/main
+[2021-05-19 15:20:14.761] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-19 15:20:15.785] [exthost] [info] exiting with code 0

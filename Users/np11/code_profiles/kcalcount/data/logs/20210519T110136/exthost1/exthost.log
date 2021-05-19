@@ -42,3 +42,5 @@
 [2021-05-19 11:01:39.874] [exthost] [info] ExtensionService#loadCommonJSModule file:///Users/np11/.vscode/extensions/usernamehw.errorlens-3.2.6/dist/extension
 [2021-05-19 11:01:39.889] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
 [2021-05-19 11:01:39.889] [exthost] [info] ExtensionService#loadCommonJSModule file:///Applications/Visual Studio Code.app/Contents/Resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-19 15:20:19.122] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-19 15:20:20.139] [exthost] [info] exiting with code 0
