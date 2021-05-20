@@ -1,7 +1,1 @@
-# js/data/logs/*
-# js/data/CachedData/*
-# php/data/logs/*
-# python/data/logs/*
-# tools/data/logs/*
-
 !.gitignore
