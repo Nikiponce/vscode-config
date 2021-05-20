@@ -1,4 +1,4 @@
-*
+
 !.gitignore
-!./extensions/*
-!./data/User/settings.json
+data/*
+!data/User/settings.json

@@ -1,0 +1,12 @@
+
+TabNine.tabnine-vscode
+CoenraadS.bracket-pair-colorizer-2
+mikestead.dotenv
+moyu.snapcode
+ms-azuretools.vscode-docker
+letrieu.expand-region
+pranaygp.vscode-css-peek
+christian-kohler.path-intellisense
+ecmel.vscode-html-css
+PKief.material-icon-theme
+
