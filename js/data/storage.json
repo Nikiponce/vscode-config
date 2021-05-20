@@ -69,11 +69,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "saveAll",
@@ -92,11 +94,13 @@
                     },
                     {
                         "id": "workbench.action.files.revert",
-                        "label": "Re&&vert File"
+                        "label": "Re&&vert File",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeActiveEditor",
-                        "label": "&&Close Editor"
+                        "label": "&&Close Editor",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeFolder",
@@ -139,11 +143,13 @@
                     },
                     {
                         "id": "actions.find",
-                        "label": "&&Find"
+                        "label": "&&Find",
+                        "enabled": false
                     },
                     {
                         "id": "editor.action.startFindReplaceAction",
-                        "label": "&&Replace"
+                        "label": "&&Replace",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -481,7 +487,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -1426,16 +1433,16 @@
         }
     },
     "theme": "vs-dark",
-    "themeBackground": "#212121",
+    "themeBackground": "#263238",
     "windowsState": {
         "lastActiveWindow": {
             "backupPath": "/Users/np11/code_profiles/js/data/Backups/1621414968000",
             "uiState": {
                 "mode": 1,
-                "x": 327,
-                "y": 172,
-                "width": 1024,
-                "height": 768
+                "x": 341,
+                "y": 186,
+                "width": 1414,
+                "height": 836
             }
         },
         "openedWindows": []
