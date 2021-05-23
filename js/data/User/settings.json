@@ -1,4 +1,5 @@
 {
     "workbench.colorTheme": "Community Material Theme High Contrast",
-    "tabnine.experimentalAutoImports": true
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
